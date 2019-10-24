@@ -6,9 +6,9 @@ This repository contains:
 
 Tested on Python 3.6.2
 
-## To generate the input vectors
+## To generate the input vectors ([vector_factory.py]())
 * download the [LMMS model(s)](https://github.com/danlou/LMMS#download-sense-embeddings) into data/sensevectors/
 * run ```> python vector_factory.py```
 
-## To evaluate the model
+## To evaluate the model ([WSDG.py]())
 * run ```> python WSDG.py```
