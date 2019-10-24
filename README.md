@@ -14,7 +14,7 @@ Tested on Python 3.6.2
 * run ```> python WSDG.py```
 
 # Citation
-Tripodi, Rocco and Navigli, Roberto, Game Theory Meets Embeddings: a Unified Framework for Word Sense Disambiguation, Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing, 2019.
+Tripodi, Rocco and Navigli, Roberto, Game Theory Meets Embeddings: a Unified Framework for Word Sense Disambiguation, Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing, 2019. (to appear)
 
 ```
 @inproceedings{tripodi-2019-game,
