@@ -15,7 +15,7 @@ Tested on Python 3.6.2
 
 # Citation
 ```
-@inproceedings{pennington-etal-2014-glove,
+@inproceedings{tripodi-2019-game,
     title = "Game Theory Meets Embeddings: a Unified Framework for Word Sense Disambiguation",
     author = "Tripodi, Rocco  and Navigli, Roberto",
     booktitle = "Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing ({EMNLP})",
