@@ -12,3 +12,16 @@ Tested on Python 3.6.2
 
 ## To evaluate the model ([WSDG.py](https://github.com/roccotrip/wsd_games_emb/blob/master/WSDG.py))
 * run ```> python WSDG.py```
+
+# Citation
+```
+@inproceedings{pennington-etal-2014-glove,
+    title = "Game Theory Meets Embeddings: a Unified Framework for Word Sense Disambiguation",
+    author = "Tripodi, Rocco  and Navigli, Roberto",
+    booktitle = "Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing ({EMNLP})",
+    month = nov,
+    year = "2019",
+    address = "Hong Kong",
+    publisher = "Association for Computational Linguistics"
+}
+```
