@@ -6,7 +6,7 @@ This repository contains:
 
 Tested on Python 3.6.2
 
-## To generate the input vectors ([vector_factory.py]())
+## To generate the input vectors ([vector_factory.py](https://github.com/roccotrip/wsd_games_emb/blob/master/vector_factory.py))
 * download the [LMMS model(s)](https://github.com/danlou/LMMS#download-sense-embeddings) into data/sensevectors/
 * run ```> python vector_factory.py```
 
