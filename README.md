@@ -2,6 +2,13 @@
 This repository contains:
 * the code of the model proposed in [Game Theory Meets Embeddings: a Unified Framework for Word Sense Disambiguation (EMNLP 2019)](http://wwwusers.di.uniroma1.it/~navigli/pubs/EMNLP_2019_TripodiNavigli.pdf)
 * the code for generating the input vectors
-* the evaluation framework
+* the code for the [evaluation](https://www.aclweb.org/anthology/E17-1010/)
 
-In order to generate the sense vectors with the vector_factory.py script it is necessary to download LMMS vectors into data/sensevectors/
+Tested on Python 3.6.2
+
+## To generate the input vectors
+* download the [LMMS model(s)](https://github.com/danlou/LMMS#download-sense-embeddings) into data/sensevectors/
+* run ```> python vector_factory.py```
+
+## To evaluate the model
+* run ```> python WSDG.py```
