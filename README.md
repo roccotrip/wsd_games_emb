@@ -8,7 +8,7 @@ Tested on Python 3.6.2
 
 ## To generate the input vectors ([vector_factory.py](https://github.com/roccotrip/wsd_games_emb/blob/master/vector_factory.py))
 * download the [LMMS model(s)](https://github.com/danlou/LMMS#download-sense-embeddings) into data/sensevectors/
-* alternatively you can these [sense vectors](https://drive.google.com/file/d/1zGjs2amrfofPAkS89XCLwkE1nuV6b--F/view?usp=sharing) trained using BERT (large) avareging the word representations of the senses tagged in SemCor.
+* alternatively you can download these [sense vectors](https://drive.google.com/file/d/1zGjs2amrfofPAkS89XCLwkE1nuV6b--F/view?usp=sharing) trained using BERT (large, last layer) avareging the word representations of the senses tagged in SemCor.
 * run ```> python vector_factory.py```
 
 ## To evaluate the model ([WSDG.py](https://github.com/roccotrip/wsd_games_emb/blob/master/WSDG.py))
